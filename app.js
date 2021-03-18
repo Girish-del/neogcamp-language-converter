@@ -10,3 +10,4 @@ function clickhandler(){
 
 btnTranslate.addEventListener("click", clickhandler)
 
+btnTranslate
